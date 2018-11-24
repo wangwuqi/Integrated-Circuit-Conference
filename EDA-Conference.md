@@ -36,7 +36,7 @@ CAD/Graphics
 International Conference on Integrated Circuits and Microsystems(**ICICM**)  
 [http://www.icicm.net/](http://www.icicm.net/)
 <br />
-International Conference on Electronics Information and Emergency Communication(**ICEIEC**)
+International Conference on Electronics Information and Emergency Communication(**ICEIEC**)  
 [http://www.iceiec.org/index.html](http://www.iceiec.org/index.html)
 <br />
 International Conference on Software Engineering and Service Science(**ICSESS**)  
