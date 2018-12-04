@@ -1,5 +1,5 @@
-# EDA-Conference
-A list of Electronic Design Automation (EDA) conferences
+# Integrated-Circuit-Conference
+A list of International Conferences on Integrated Circuit (IC)
 ## International Conferences I
 Design Automation Conference (**DAC**)  
 [https://dac.com/](https://dac.com/)
